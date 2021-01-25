@@ -13,6 +13,7 @@ export const Search = () => {
     }
 
     github.clearUsers()
+    console.log(alert)
 
     if (value.trim()) {
       alert.hide()
