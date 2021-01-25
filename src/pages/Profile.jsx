@@ -26,7 +26,7 @@ export const Profile = ({match}) => {
   
   return (
     <>
-      <Link to="/" className="btn btn-link">На главную</Link>
+      <Link to="/github-users" className="btn btn-link">На главную</Link>
       <div className="card mb-4">
         <div className="card-body">
           <div className="row">
